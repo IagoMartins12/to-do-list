@@ -32,3 +32,4 @@ npm install
 ```bash
 npm run dev
 ```
+<p> Pronto! o Projeto ja estará rodando na sua local :) </p>
