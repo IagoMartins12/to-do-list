@@ -1,12 +1,13 @@
 # to-do-list
 Lista de tarefas feita para fins de estudo para backend, onde construi uma API com integração ao banco de dados mongo, utilizando nodeJs e ESJ para as paginas dinamicas.
+Como o foco foi mais no backend, o layout do site foi pensado de maneira minimalista
 
 # Tecnologias utilizadas no projeto: 
 <ul>
     <li> NodeJs </li>
     <li> Express </li>
     <li> MongoDb </li>
-    <li> ESJ(Embedded JavaScript Templates)  </li>
+    <li> ESJ (Embedded JavaScript Templates)  </li>
     <li> Mongoose </li>
     <li> Bulma </li>
 </ul>
@@ -33,3 +34,16 @@ npm install
 npm run dev
 ```
 <p> Pronto! o Projeto ja estará rodando na sua local :) </p>
+
+# Imagens do projeto: 
+<h3><strong>Index: </strong></h3>
+<img src="images/index.png">
+
+<h3><strong>Checklists: </strong></h3>
+<img src="images/checklist.png">
+
+<h3><strong>Tasks: </strong></h3>
+<img src="images/task.png">
+
+<h3><strong>Formulario de edição: </strong></h3>
+<img src="images/task.png">
