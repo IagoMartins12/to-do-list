@@ -40,10 +40,10 @@ npm run dev
 <img src="images/index.png">
 
 <h3><strong>Checklists: </strong></h3>
-<img src="images/checklist.png">
+<img src="images/Checklist.png">
 
 <h3><strong>Tasks: </strong></h3>
-<img src="images/task.png">
+<img src="images/tasks.png">
 
 <h3><strong>Formulario de edição: </strong></h3>
-<img src="images/task.png">
+<img src="images/edit.png">
